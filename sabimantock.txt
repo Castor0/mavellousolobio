@@ -1,6 +1,6 @@
 <span id="a">Marvellous@Olobio</span>:<span id="b">~</span><span id="c">$</span> cd Marvellous Olobio/About_Me>
 <span id="a">Marvellous@Olobio</span>:<span id="b">~</span><span id="c">$</span> cat marvellousolobio.txt><br/><br/>
-My favorite code quote, "<span id="k">What matters most is how well you walk through the fire.</span>". 
+My favorite code quote, "<span id="k">i will code for food.</span>". 
 <br/><h3>Marvellous Olobio - BackEnd Developer</h3>
 <p>BackEnd-Developer with 1 year experience building web apps</p> 
 <p> Tech Stacks: {Javascript}, {React} <br/>DataBase:{FireStore}. <br/>Api Spec: REST  <br/> Infastructure: Heroku,  Firebase</p>
